@@ -41,7 +41,7 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 ---
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gjotov&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gjotov&theme=github-compact)]
 
 ---
 
