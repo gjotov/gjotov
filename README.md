@@ -7,6 +7,7 @@ In addition to my development work, I have a strong foundation in software engin
 
 During my free time, you'll find me exploring graphic design tools like Adobe Photoshop, XD, Figma where I love creating visually appealing designs. 
 
+a couple of years later, I decided to start a github xd
 
 ## Languages and Tools🔧
 
