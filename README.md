@@ -10,7 +10,7 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 ## Languages and Tools🔧
 
-### Languages:
+### Languages
 | C# | C++ | JavaScript |
 | --- | --- | --- |
 | <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="69" height="69"/> </a> | <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a> | <a href="(https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="40"/> </a> | 
