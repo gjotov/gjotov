@@ -1,5 +1,5 @@
 ### About Me:  
-I'm a begginer developer with a keen interest in creating robust applications and exploring new technologies. My primary focus is on C# development, where I work extensively with frameworks . I  on building scalable web applications and constantly seek to improve my skills in this area.
+I'm a begginer developer with a keen interest in creating robust applications and exploring new technologies. My primary focus is on C#, JS development, where I work extensively with frameworks . I  on building scalable web applications and constantly seek to improve my skills in this area.
 
 Currently, I'm diving into the exciting world of cross-platform mobile app development with Dart and Flutter.
 
