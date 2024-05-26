@@ -37,7 +37,7 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 ### Graphic Applications
 | Adobe Photoshop | Figma | Adobe XD | Adobe illustrator |
 | --- | --- | --- | --- |
-| <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="120" height="60"/> </a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/> </a> | <a> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" alt="XD" width="70" height="40"/> </a> | <a href> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="110" height="60"/> </a> |
+| <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="120" height="60"/> </a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/> </a> | <a> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" alt="XD" width="70" height="60"/> </a> | <a href> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="110" height="60"/> </a> |
 
 ---
 
