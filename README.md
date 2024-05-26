@@ -29,9 +29,9 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 ### Environments, Testing, Other
 
-| nodejs | Git | Virtual Box |
+| nodejs | Git | GitHub Action |
 |----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" width="80" height="40"/></a>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GHA" width="80" height="45"/>
 ### OS
 | Windows | Mac |
 | --- | --- |
