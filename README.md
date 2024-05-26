@@ -31,7 +31,7 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 | nodejs | Git | Virtual Box |
 |----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)" alt="VirtualBox" width="70" height="40"/></a>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)" alt="VirtualBox" width="80" height="40"/></a>|
 ### OS
 | Windows | Mac |
 | --- | --- |
@@ -39,7 +39,7 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 ### Graphic Applications🖌️
 | Adobe Photoshop | Figma | Adobe XD | Adobe illustrator |
-| - | --- | --- | - |
+| --- | --- | --- | --- |
 | <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="120" height="40"/> </a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> </a> | <a> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" alt="XD" width="70" height="40"/> </a> | <a href> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="110" height="40"/> </a> |
 
 
@@ -58,7 +58,6 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=gjotov&show_icons=true&theme=vision-friendly-light">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjotov&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-light">
 </p>
  
 
