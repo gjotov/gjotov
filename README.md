@@ -13,25 +13,25 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 ### Languages:
 | C# | C++ | JavaScript |
 | --- | --- | --- |
-| <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="69" height="69"/> </a> | <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a> | <a href="(https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="40"/> </a> |
+| <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="69" height="69"/> </a> | <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a> | <a href="(https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="40"/> </a> | 
 
-### Best frameworks and main libraries for C#
-| .NET | Xamarin.MAC | ASP.NET |
-| --- | --- | --- 
-| <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/> </a> | <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg" alt="Xamarin.MAC" width="90" height="90"/> </a> | <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)" alt="ASP.NET" width="80" height="60"/> </a> |
+### Best frameworks and main libraries
+| .NET | Xamarin.MAC | Qt | Express | React |
+| --- | --- | --- | --- | --- |
+| <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/> </a> | <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg" alt="Xamarin.MAC" width="90" height="90"/> </a> | <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="80" height="60"/> </a> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="80" height="60"/> </a> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Express" width="80" height="60"/> </a>
 
 
 ### My tools for Data Manipulation
-| MySQL | Postgres | SQLite |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+| MySQL | Postgres | SQLite | Google Cloud |
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="100" height="100"/> |
 
 
 ### Environments, Testing, Other
 
 | nodejs | Git | Virtual Box |
 |----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)" alt="VirtualBox" width="80" height="40"/></a>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" width="80" height="40"/></a>|
 ### OS
 | Windows | Mac |
 | --- | --- |
@@ -42,28 +42,19 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 | --- | --- | --- | --- |
 | <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="120" height="40"/> </a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> </a> | <a> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" alt="XD" width="70" height="40"/> </a> | <a href> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="110" height="40"/> </a> |
 
+---
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gjotov&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=gjotov&theme=highcontrast-light&hide_border=true&border_radius=5&card_width=800">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=gjotov&show_icons=true&theme=vision-friendly-dark">
 </p>
-
-
----
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=gjotov&show_icons=true&theme=vision-friendly-light">
-</p>
- 
-
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=gjotov&style=for-the-badge&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=gjotov&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 
