@@ -9,7 +9,7 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 a couple of years later, I decided to start a github xd
 
-## Languages and Tools🔧
+## Languages and Tools
 
 ### Languages
 | C# | C++ | JavaScript |
@@ -38,7 +38,7 @@ a couple of years later, I decided to start a github xd
 | --- | --- |
 | <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" alt="Windows" width="60" height="60"/> </a> | <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Mac" width="40" height="45"/> </a> |
 
-### Graphic Applications🖌️
+### Graphic Applications
 | Adobe Photoshop | Figma | Adobe XD | Adobe illustrator |
 | --- | --- | --- | --- |
 | <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="120" height="40"/> </a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> </a> | <a> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" alt="XD" width="70" height="40"/> </a> | <a href> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="110" height="40"/> </a> |
