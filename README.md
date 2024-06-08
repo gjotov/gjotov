@@ -15,7 +15,7 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 ### Best frameworks and main libraries
 | .NET | Xamarin.MAC | Qt | Express | React |
 | --- | --- | --- | --- | --- |
-| <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="60" height="60"/> </a> | <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="Xamarin.MAC" width="100" height="60"/> </a> | <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="80" height="60"/> </a> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="80" height="60"/> </a> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Express" width="80" height="60"/> </a>
+| <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="60" height="60"/> </a> | <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="Xamarin.MAC" width="90" height="60"/> </a> | <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="80" height="60"/> </a> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="80" height="60"/> </a> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Express" width="80" height="60"/> </a>
 
 
 ### My tools for Data Manipulation
@@ -41,7 +41,7 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 ---
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gjotov&theme=github-compact)]
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gjotov&theme=github-compact)
 
 ---
 
