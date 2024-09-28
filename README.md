@@ -1,9 +1,9 @@
 ### About Me:  
-I am a student, so my assignments will be mostly on the github, later I will start adding my ideas(a couple of years later, I decided to return a github xd). My primary focus is on C#/С++, JS development, where I work extensively with frameworks . I  on building scalable web applications and constantly seek to improve my skills in this area.
+I'm a student, so my assignments will be mostly on the github, later I'll start adding my ideas(a couple of years later, I decided to return a github xd). My primary focus is on C#/С++, JS development, where I work extensively with frameworks . I  on building scalable web applications and constantly seek to improve my skills in this area.
 
 For some time i was engaged in the development of cross-platform mobile application development using Dart and Flutter.
 
-During my free time, you'll find me exploring graphic design tools like Adobe Photoshop, XD, Figma where I love creating visually appealing designs. 
+During my free time, you'll find me exploring graphic design tools like Adobe Photoshop Figma where I creating visually appealing designs. 
 
 ## Languages and Tools
 
