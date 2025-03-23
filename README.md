@@ -19,10 +19,9 @@ During my free time, you'll find me exploring graphic design tools like Adobe Ph
 
 
 ### My tools for Data Manipulation
-| MySQL | Postgres | SQLite | Google Cloud |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="60" height="60"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="100" height="100"/> |
-
+| MySQL | Postgres | SQLite | Google Cloud | В++ |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="60" height="60"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="100" height="100"/> | <img src="https://github.com/serega23467/gjotov/assets/114952677/b542d6dd-da71-4616-bd4f-f37d02da4fc8" alt="Google Cloud" width="100" height="100"/>
 
 ### Environments, Testing, Other
 
