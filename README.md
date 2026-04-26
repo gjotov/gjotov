@@ -1,9 +1,7 @@
 ### About Me:  
-I'm a student, so my assignments will be mostly on the github, later I'll start adding my ideas(a couple of years later, I decided to return a github xd). My primary focus is on C#/С++, JS development, where I work extensively with frameworks . I  on building scalable web applications and constantly seek to improve my skills in this area.
-
-For some time i was engaged in the development of cross-platform mobile application development using Dart and Flutter.
-
-During my free time, you'll find me exploring graphic design tools like Adobe Photoshop Figma where I creating visually appealing designs. 
+Hey there! I used to be a student here, but that’s in the past. After a long break, I finally returned to GitHub to build real things.
+Right now, I'm heavily focused on AI. I spend a lot of time working with YOLO, LLMs, AI's API and analyzing BigData data. My core background is in C#, C++ and Python development, and I’ve also spent quite a bit of time building cross-platform apps with Flutter.
+Lately, I’ve been diving into cybersecurity and pentesting mostly because I love figuring out how things work under the hood (and how they break). When I’m not coding or "hacking," I’m usually in Figma or Photoshop, making sure my projects don’t look like they were made in the 90s.
 
 ## Languages and Tools
 
