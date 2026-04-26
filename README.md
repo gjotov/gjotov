@@ -1,3 +1,5 @@
+![K.A.A. ASCII banner](banner.png)
+
 ### About Me:  
 Hey there! I used to be a student here, but that’s in the past. After a long break, I finally returned to GitHub to build real things.
 Right now, I'm heavily focused on AI. I spend a lot of time working with YOLO, LLMs, AI's API and analyzing BigData data. My core background is in C#, C++ and Python development, and I’ve also spent quite a bit of time building cross-platform apps with Flutter.
