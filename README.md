@@ -49,10 +49,6 @@ Lately, I’ve been diving into cybersecurity and pentesting mostly because I lo
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjotov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gjotov&theme=tokyonight&hide_border=true" />
-</p>
-
 ### Activity Graph
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gjotov&bg_color=1a1b27&color=70a5fd&line=5ac3ad&point=ffffff&area=true&hide_border=true" />
