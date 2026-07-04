@@ -42,13 +42,6 @@ Lately, I’ve been diving into cybersecurity and pentesting mostly because I lo
 | :---: | :---: | :---: |
 | <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="60" height="60"/> </a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/> </a> | <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="60" height="60"/> </a> |
 
-### My Github Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gjotov&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjotov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
 ### Activity Graph
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gjotov&bg_color=1a1b27&color=70a5fd&line=5ac3ad&point=ffffff&area=true&hide_border=true" />
