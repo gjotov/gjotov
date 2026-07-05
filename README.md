@@ -1,9 +1,7 @@
 ![K.A.A. ASCII banner](banner.png)
 
-### About Me:  
-Hey there! I used to be a student here, but that’s in the past. After a long break, I finally returned to GitHub to build real things.
-Right now, I'm heavily focused on AI. I spend a lot of time working with YOLO, LLMs, AI's API and analyzing BigData data. My core background is in C#, C++ and Python development, and I’ve also spent quite a bit of time building cross-platform apps with Flutter.
-Lately, I’ve been diving into cybersecurity and pentesting mostly because I love figuring out how things work under the hood (and how they break). When I’m not coding or "hacking," I’m usually in Figma or Photoshop, making sure my projects don’t look like they were made in the 90s.
+
+#### Pushing straight to main because life is too short for pull requests.
 
 ## Languages and Tools
 
